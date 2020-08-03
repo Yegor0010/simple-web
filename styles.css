@@ -95,3 +95,12 @@ header a {
     
     color: #FFFFFF;
 }
+.book{font-family: "SF Pro Display";
+    font-size: 18px;
+    line-height: 21px;
+}
+.book h3{ display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
